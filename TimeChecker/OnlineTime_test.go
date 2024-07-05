@@ -1,4 +1,4 @@
-package timeghecker
+package timechecker
 
 import (
 	"testing"
